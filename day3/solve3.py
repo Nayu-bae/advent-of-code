@@ -24,3 +24,4 @@ for x in range(12):
     
     if ones[x] < zeros[x]:
         print(0)
+        
